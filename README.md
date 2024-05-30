@@ -1,21 +1,20 @@
 
-Hi there 👋, I'm Harsh!
+## Hi there 👋, I'm Harsh!
 
-👨‍💻 I'm a dedicated MERN stack developer driven by a passion for crafting dynamic and engaging web and mobile applications.
+👨‍💻 I'm a dedicated MERN stack developer driven by a passion for crafting dynamic and engaging web applications.
 
-About Me
-
-🔭 I’m currently working on various web and app development projects.
+## About Me
+🔭 I’m currently working on various web development projects.
 
 🌱 I’m constantly learning and improving my skills in the MERN stack (Express.js, React.js, Node.js, MySQL).
 
-💬 Ask me about JavaScript, React, Node, or anything related to web and app development.
+💬 Ask me about JavaScript, React, Node, or anything related to web development.
 
 📫 How to reach me: agrawal.21.harsh@gmail.com
 
 ⚡ Fun fact: I love solving complex coding challenges and turning ideas into reality through code.
 
-Skills
+## Skills
 
 Front-End: React, HTML, CSS, JavaScript
 
@@ -26,7 +25,7 @@ Database: MYSQL
 Other: Git, GitHub, RESTful APIs.
 
 
-Projects:-
+## Projects:-
 
 U4R:- https://u4r.in
 
@@ -38,3 +37,4 @@ DevCraftedCreations(Coming Soon):- https://devcraftedcreations.com
 Let's Connect!
 
 LinkedIn:- https://www.linkedin.com/in/harshagrawal121/
+
