@@ -1,7 +1,7 @@
 
 ## Hi there 👋, I'm Harsh!
 
-👨‍💻 I'm a dedicated MERN stack developer driven by a passion for crafting dynamic and engaging web applications.
+👨‍💻 I'm a dedicated MERN stack developer passionate about crafting dynamic and engaging web applications.
 
 ## About Me
 🔭 I’m currently working on various web development projects.
@@ -37,4 +37,8 @@ DevCraftedCreations(Coming Soon):- https://devcraftedcreations.com
 ## Let's Connect!
 
 LinkedIn:- https://www.linkedin.com/in/harshagrawal121/
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=99harsh&show_icons=true&locale=en&layout=compact" alt="Harsh Agrawal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=99harsh&show_icons=true&locale=en" alt="Harsh Agrawal" /></p>
 
