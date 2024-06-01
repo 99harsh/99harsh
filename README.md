@@ -38,6 +38,10 @@ DevCraftedCreations(Coming Soon):- https://devcraftedcreations.com
 
 LinkedIn:- https://www.linkedin.com/in/harshagrawal121/
 
+Twitter:- https://x.com/techwithharsh
+
+Youtube:- https://www.youtube.com/@techwithharshagrawal
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=99harsh&show_icons=true&locale=en&layout=compact" alt="Harsh Agrawal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=99harsh&show_icons=true&locale=en" alt="Harsh Agrawal" /></p>
