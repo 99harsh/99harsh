@@ -8,7 +8,7 @@
 
 🌱 I’m constantly learning and improving my skills in the MERN and MEAN stack (Express.js, React.js, Node.js, MySQL).
 
-💬 Ask me about JavaScript, React, Angular Node, or anything related to web development.
+💬 Ask me about JavaScript, React, Angular, Node, or anything related to web development.
 
 📫 How to reach me: agrawal.21.harsh@gmail.com
 
