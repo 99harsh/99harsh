@@ -16,7 +16,7 @@
 
 ## Skills
 
-Front-End: React, HTML, CSS, JavaScript
+Front-End: Angular 17, Angular Material, HTML, CSS, JavaScript, ReactJS
 
 Back-End: Node.js, Express.js
 
