@@ -1,14 +1,14 @@
 
 ## Hi there 👋, I'm Harsh!
 
-👨‍💻 I'm a dedicated MERN stack developer passionate about crafting dynamic and engaging web applications.
+👨‍💻 I'm a dedicated MEAN stack developer passionate about crafting dynamic and engaging web applications.
 
 ## About Me
 🔭 I’m currently working on various web development projects.
 
-🌱 I’m constantly learning and improving my skills in the MERN and MEAN stack (Express.js, React.js, Node.js, MySQL).
+🌱 I’m constantly learning and improving my skills in the MEAN Stack (Angular 17, Express.js, Node.js, MySQL).
 
-💬 Ask me about JavaScript, React, Angular, Node, or anything related to web development.
+💬 Ask me about JavaScript, Angular, Node, or anything related to web development.
 
 📫 How to reach me: agrawal.21.harsh@gmail.com
 
